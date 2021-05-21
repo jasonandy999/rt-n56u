@@ -751,7 +751,7 @@ struct nvram_pair router_defaults[] = {
 	{ "frps_enable", "0" },
 	
 	/*SmartDns*/
-	{ "sdns_enable", "0" },
+	{ "sdns_enable", "1" },
 	{ "snds_name", "smartdns" },
 	{ "sdns_port", "6053" },
 	{ "sdns_tcp_server", "0" },
