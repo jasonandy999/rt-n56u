@@ -1,7 +1,7 @@
 /* K2P */
 
-#define BOARD_PID		"iMei"
-#define BOARD_NAME		"iMei"
+#define BOARD_PID		"@舒仪"
+#define BOARD_NAME		"@舒仪"
 #define BOARD_DESC		"PHICOMM K2P Wireless Router"
 #define BOARD_VENDOR_NAME	"PHICOMM"
 #define BOARD_VENDOR_URL	"http://www.phicomm.com/"
