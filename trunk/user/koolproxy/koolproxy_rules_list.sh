@@ -24,7 +24,7 @@
 #维护人员采纳后会通过规则推送，来实现这些网站元素的屏蔽。
 #规则的更新由koolproxy主程序发起，用户只需要添加规则文件名，规则地址等信息即可获得相应规则。
 #（可选项：前面添加#停用规则,删除前面的#可生效）
-1|koolproxy.txt|https://kprule.com/koolproxy.txt|
-1|daily.txt|https://kprule.com/daily.txt|
-1|kp.dat|https://kprule.com/kp.dat|
+1|koolproxy.txt|https://ghproxy.com/https://raw.githubusercontent.com/ihuaer/koolproxy/main/koolproxy.txt|静态规则|
+1|daily.txt|https://ghproxy.com/https://raw.githubusercontent.com/ihuaer/koolproxy/main/daily.txt|每日规则|
+1|kp.dat|https://ghproxy.com/https://raw.githubusercontent.com/ihuaer/koolproxy/main/kp.dat|视频规则|
 1|user.txt||
